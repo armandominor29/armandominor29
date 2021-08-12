@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @armandominor29
+- 👀 I’m interested in meeting others in the development space and growing my skillset as a developer.
+- 🌱 I’m currently learning .NET stack!
+- 💞️ I’m a recent Software Engineering graduate looking to become a full-time developer.
+- 📫 Best way to reach me is via email at armandominorjr@gmail.com
